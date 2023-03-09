@@ -5,7 +5,7 @@ go 1.15
 require (
 	cloud.google.com/go v0.57.0
 	github.com/DzananGanic/numericalgo v0.0.0-20170804125527-2b389385baf0
-	github.com/blend/go-sdk v1.1.1 // indirect
+	github.com/blend/go-sdk v1.20220207.10 // indirect
 	github.com/brianvoe/gofakeit/v4 v4.3.0
 	github.com/cnkei/gospline v0.0.0-20191204072713-842a72f86331
 	github.com/containerd/continuity v0.0.0-20200413184840-d3ef23f19fbb // indirect
